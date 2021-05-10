@@ -7,75 +7,18 @@ To consume price data, your smart contract should reference AggregatorV3Interfac
 Fetches Current Data Price From Any Oracle
 [Code Snippet]
 
-
-
-
-
-
-
-
 Records that data in a struct
 [Code Snippet]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 A function to calculate mean of the prices stored
 [Code Snippet]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Write CRUD operations for that struct
 [Code Snippet]
 
-
-
-
-
-
-
-
-
-
-
-
-Also write tests for these
-Deployed contracts
-
-
-Unit testing
+Also write tests for these 
+1.Deployed contracts
+[Code Snippet]
+2.Unit testing
+[Code Snippet]
 
